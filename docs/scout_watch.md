@@ -1,7 +1,7 @@
 # docker scout watch
 
 <!---MARKER_GEN_START-->
-Watch repositories in a registry and push images and indexes to Docker Scout (experimental)
+Watch repositories in a registry and push images and indexes to Docker Scout
 
 ### Options
 

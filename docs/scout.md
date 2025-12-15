@@ -30,7 +30,7 @@ Command line tool for Docker Scout
 | [`stream`](scout_stream.md)                                   | Manage streams (experimental)                                                               |
 | [`version`](scout_version.md)                                 | Show Docker Scout version information                                                       |
 | [`vex`](scout_vex.md)                                         | Manage VEX attestations on images                                                           |
-| [`watch`](scout_watch.md)                                     | Watch repositories in a registry and push images and indexes to Docker Scout (experimental) |
+| [`watch`](scout_watch.md)                                     | Watch repositories in a registry and push images and indexes to Docker Scout                |
 
 
 
